@@ -4,7 +4,6 @@
 📍 Based in Georgia | Actively seeking Data Analyst roles in the UK or Europe  
 💡 Passionate about solving real-world problems with clean, actionable data  
 
----
 
 ## 🚀 About Me
 
@@ -12,7 +11,6 @@ I’m a curious and detail-oriented data analyst with nearly 4 years of experien
 
 I’m now ready to take the next step — bringing my skills and passion to an international team where I can **keep learning, contribute real value, and grow fast**.
 
----
 
 ## 🧰 Skills & Tools
 
@@ -27,7 +25,6 @@ I'm currently applying to **junior/graduate data analyst roles in the UK and EU*
 
 If your team values curiosity, drive, and clear communication — we’ll get along well!
 
----
 
 ## 📫 Let's Connect!
 
@@ -35,6 +32,5 @@ If your team values curiosity, drive, and clear communication — we’ll get al
 - 💻 [GitHub](https://github.com/Konjaria)  
 - 📧 konjaria1010@gmail.com
 
----
 
 *Thanks for stopping by — I’m building every day and always open to feedback, ideas, or opportunities.*
